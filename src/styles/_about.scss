@@ -1,13 +1,29 @@
-
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 .about{
     display:flex;
-     align-items: center;
-    
-    
-    
+     align-items: center;    
+       
 &__picture{      
     width:20rem;
     height:20rem;
     border-radius:50%;
 }
+&__heading{
+    width:100%;
+    text-align: center;
+}
+&__paragraph{
+    margin-left: 10rem;
+    margin-right:10rem;
+    line-height:1.5rem;
+   
+
+}
+&__container{
+    width:100%;
+    
+}
+
 }
