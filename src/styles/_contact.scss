@@ -1,0 +1,12 @@
+.contact{
+    display:flex;
+    justify-content: center;
+    background: #2f3061;
+    &__logo {
+        height: 5rem;
+        filter: grayscale(100%);
+        padding: 1rem;
+      }
+     
+
+}
