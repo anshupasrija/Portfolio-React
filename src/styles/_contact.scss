@@ -1,6 +1,10 @@
 .contact{
+  // max-width:700px;
     display:flex;
     justify-content: center;
+    margin: 2px auto;
+    padding: 60px 24px;
+    
     background: #2f3061;
     &__logo {
         height: 5rem;
