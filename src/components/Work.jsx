@@ -23,8 +23,8 @@ function Work() {
                 <div className="work__info">
                     <p className="work__item__heading work__item__heading--right">Whats for Dinner</p>
                     <p className="work__item__tech work__item__tech--right">REACT | SASS | JAVASCRIPT </p>
-                    <p>Whats for Dinner was developed for a 24 hour pair programming competition in which we came in SECOND PLACE. My partner and I decided we wanted to push our skills and create an interactive app for food, so we built whats for dinner. by using two API , one for meal and second for drink, it give you randon selction of complete meal.
-                                To build this application, we used React and JavaScript, as well as CSS/SASS for the front-end. For our server, we used Express along with Node.js..</p>
+                    <p>Whats for Dinner was developed for a 24 hour pair programming competition in which we came in SECOND PLACE. My partner and I decided we wanted to push our skills and create an interactive app for food, so we built whats for dinner. It give you randon selction of complete meal.
+                                To build this application, we used React and JavaScript, as well as CSS/SASS for the front-end. </p>
                 </div>
             </div>
             <div className="work__item">
@@ -32,8 +32,8 @@ function Work() {
                 <div className="work__info">
                     <p className="work__item__heading work__item__heading--right">Weather App</p>
                     <p className="work__item__tech work__item__tech--right">REACT | SASS | JAVASCRIPT </p>
-                    <p>weather app i created to check the weather of any city by using openweather API.In this a user can enter any city and the app will show the country name ,weather with maximum and lowest temp with icon.
-                     To build this application, I used React and JavaScript, as well as CSS/SASS for the front-end. For our server, we used Express along with Node.js..</p>
+                    <p>Weather app i created to check the weather of any city by using openweather API.In this a user can enter any city and the app will show the country name ,weather with maximum and lowest temp with icon.
+                     To build this application, I used React and JavaScript, as well as CSS/SASS for the front-end.</p>
                 </div>
             </div>
         </div>
