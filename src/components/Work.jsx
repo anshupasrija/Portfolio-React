@@ -1,6 +1,7 @@
 import React from 'react'
 import rentpic from'../assests/boxes.png';
 import weather from '../assests/weather.png';
+import recipes from '../assests/recipes.jpg'
 import'../styles/_work.scss';
 
 function Work() {
@@ -19,11 +20,11 @@ function Work() {
             </div>
         
             <div className="work__item">
-                    <img src={rentpic} alt="rentpic" className="work__image" />
+                    <img src={recipes} alt="rentpic" className="work__image" />
                 <div className="work__info">
-                    <p className="work__item__heading work__item__heading--right">Whats for Dinner</p>
+                    <p className="work__item__heading work__item__heading--right">Food Recipe Plaza</p>
                     <p className="work__item__tech work__item__tech--right">REACT | SASS | JAVASCRIPT </p>
-                    <p>Whats for Dinner was developed for a 24 hour pair programming competition in which we came in SECOND PLACE. My partner and I decided we wanted to push our skills and create an interactive app for food, so we built whats for dinner. It give you randon selction of complete meal.
+                    <p>Food Recipe Plaza was developed for a 24 hour pair programming competition in which we came in SECOND PLACE. My partner and I decided we wanted to push our skills and create an interactive app for food, so we built food Recipe Plaza. It give you randon selction of food according to ingridents.
                                 To build this application, we used React and JavaScript, as well as CSS/SASS for the front-end. </p>
                 </div>
             </div>
