@@ -3,6 +3,7 @@ import React from 'react'
 import headicon from'../assests/picture (3).jpg'
 import '../styles/_about.scss'
 
+
 function About() {
     return (
         <div className="about">
