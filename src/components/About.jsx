@@ -6,7 +6,7 @@ import '../styles/_about.scss'
 
 function About() {
     return (
-        <div className="about">
+        <div className="about" id="about">
            
             <div className="about__subcontainer">
             <img className="about__picture" src={headicon} alt="profilepicture" />

@@ -2,7 +2,9 @@ import React,{Component}from 'react';
 import About from'./components/About';
 import Work from './components/Work';
 import Contact from './components/Contact';
-import {Person} from '@material-ui/icons';
+import Navbar from './components/Navbar';
+// import {Person} from '@material-ui/icons';
+// import MenuIcon from '@material-ui/icons/Menu';
 
 
 
@@ -14,7 +16,7 @@ class App extends Component {
     
     return (
       <div>
-        <Person/>
+      <Navbar/>     
       <About/>
       <Work/>
       <Contact/>
